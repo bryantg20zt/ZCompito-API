@@ -3,84 +3,105 @@
     "name": "John",
     "lastName": "Doe",
     "email": "johndoe@example.com",
-    "password": "password123"
+    "password": "password123",
+    "userName": "johndoe"
   },
   {
     "name": "Jane",
     "lastName": "Smith",
     "email": "janesmith@example.com",
-    "password": "abc123"
+    "password": "pass456",
+    "userName": "janesmith"
   },
   {
     "name": "Michael",
     "lastName": "Johnson",
-    "email": "michaeljohnson@example.com",
-    "password": "qwerty"
+    "email": "michaelj@example.com",
+    "password": "mike1987",
+    "userName": "mjohnson"
   },
   {
     "name": "Emily",
     "lastName": "Davis",
-    "email": "emilydavis@example.com",
-    "password": "pass123"
+    "email": "emilyd@example.com",
+    "password": "emily123",
+    "userName": "emilyd"
   },
   {
     "name": "David",
     "lastName": "Brown",
     "email": "davidbrown@example.com",
-    "password": "password456"
+    "password": "dave456",
+    "userName": "dbrown"
   },
   {
     "name": "Sarah",
     "lastName": "Wilson",
-    "email": "sarahwilson@example.com",
-    "password": "xyz789"
-  },
-  {
-    "name": "Robert",
-    "lastName": "Martinez",
-    "email": "robertmartinez@example.com",
-    "password": "hello123"
-  },
-  {
-    "name": "Jennifer",
-    "lastName": "Anderson",
-    "email": "jenniferanderson@example.com",
-    "password": "password789"
-  },
-  {
-    "name": "William",
-    "lastName": "Taylor",
-    "email": "williamtaylor@example.com",
-    "password": "abcxyz"
-  },
-  {
-    "name": "Jessica",
-    "lastName": "Thomas",
-    "email": "jessicathomas@example.com",
-    "password": "pass456"
-  },
-  {
-    "name": "Daniel",
-    "lastName": "Hernandez",
-    "email": "danielhernandez@example.com",
-    "password": "qwerty123"
-  },
-  {
-    "name": "Lauren",
-    "lastName": "Lopez",
-    "email": "laurenlopez@example.com",
-    "password": "password321"
+    "email": "sarahw@example.com",
+    "password": "sarah1985",
+    "userName": "swilson"
   },
   {
     "name": "Christopher",
-    "lastName": "Garcia",
-    "email": "christophergarcia@example.com",
-    "password": "xyzabc"
+    "lastName": "Martinez",
+    "email": "christopherm@example.com",
+    "password": "chris123",
+    "userName": "cmartinez"
   },
   {
-    "name": "Megan",
-    "lastName": "Lee",
-    "email": "meganlee@example.com",
-    "password": "hello456"
+    "name": "Jessica",
+    "lastName": "Anderson",
+    "email": "jessicaa@example.com",
+    "password": "jess789",
+    "userName": "janderson"
+  },
+  {
+    "name": "Matthew",
+    "lastName": "Thomas",
+    "email": "matthewt@example.com",
+    "password": "matt456",
+    "userName": "mthomas"
+  },
+  {
+    "name": "Ashley",
+    "lastName": "Taylor",
+    "email": "ashleyt@example.com",
+    "password": "ashley1987",
+    "userName": "ataylor"
+  },
+  {
+    "name": "Daniel",
+    "lastName": "Harris",
+    "email": "danielh@example.com",
+    "password": "danny123",
+    "userName": "dharris"
+  },
+  {
+    "name": "Lauren",
+    "lastName": "White",
+    "email": "laurenw@example.com",
+    "password": "lauren456",
+    "userName": "lwhite"
+  },
+  {
+    "name": "Andrew",
+    "lastName": "Miller",
+    "email": "andrewm@example.com",
+    "password": "andy1985",
+    "userName": "amiller"
+  },
+  {
+    "name": "Olivia",
+    "lastName": "Clark",
+    "email": "oliviac@example.com",
+    "password": "olivia123",
+    "userName": "oclark"
+  },
+  {
+    "name": "James",
+    "lastName": "Walker",
+    "email": "jamesw@example.com",
+    "password": "james456",
+    "userName": "jwalker"
   }
 ]

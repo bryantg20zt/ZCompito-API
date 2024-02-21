@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Wake up",
+    "time": "07:00",
+    "category": "Morning Routine",
+    "state": "Incomplete"
+  },
+  {
+    "name": "Brush teeth",
+    "time": "07:15",
+    "category": "Morning Routine",
+    "state": "Incomplete"
+  },
+  {
+    "name": "Take a shower",
+    "time": "07:30",
+    "category": "Morning Routine",
+    "state": "Incomplete"
+  },
+  {
+    "name": "Have breakfast",
+    "time": "08:00",
+    "category": "Morning Routine",
+    "state": "Incomplete"
+  },
+  {
+    "name": "Go for a walk",
+    "time": "09:00",
+    "category": "Exercise",
+    "state": "Incomplete"
+  },
+  {
+    "name": "Read a book",
+    "time": "10:00",
+    "category": "Leisure",
+    "state": "Incomplete"
+  },
+  {
+    "name": "Do laundry",
+    "time": "11:00",
+    "category": "Chores",
+    "state": "Incomplete"
+  },
+  {
+    "name": "Prepare lunch",
+    "time": "12:00",
+    "category": "Cooking",
+    "state": "Incomplete"
+  },
+  {
+    "name": "Watch a movie",
+    "time": "13:00",
+    "category": "Leisure",
+    "state": "Incomplete"
+  },
+  {
+    "name": "Clean the house",
+    "time": "14:00",
+    "category": "Chores",
+    "state": "Incomplete"
+  },
+  {
+    "name": "Call a friend",
+    "time": "15:00",
+    "category": "Social",
+    "state": "Incomplete"
+  },
+  {
+    "name": "Go grocery shopping",
+    "time": "16:00",
+    "category": "Chores",
+    "state": "Incomplete"
+  },
+  {
+    "name": "Prepare dinner",
+    "time": "17:00",
+    "category": "Cooking",
+    "state": "Incomplete"
+  },
+  {
+    "name": "Exercise",
+    "time": "18:00",
+    "category": "Exercise",
+    "state": "Incomplete"
+  }
+]

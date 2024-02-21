@@ -1,0 +1,86 @@
+[
+  {
+    "name": "John",
+    "lastName": "Doe",
+    "email": "johndoe@example.com",
+    "password": "password123"
+  },
+  {
+    "name": "Jane",
+    "lastName": "Smith",
+    "email": "janesmith@example.com",
+    "password": "abc123"
+  },
+  {
+    "name": "Michael",
+    "lastName": "Johnson",
+    "email": "michaeljohnson@example.com",
+    "password": "qwerty"
+  },
+  {
+    "name": "Emily",
+    "lastName": "Davis",
+    "email": "emilydavis@example.com",
+    "password": "pass123"
+  },
+  {
+    "name": "David",
+    "lastName": "Brown",
+    "email": "davidbrown@example.com",
+    "password": "password456"
+  },
+  {
+    "name": "Sarah",
+    "lastName": "Wilson",
+    "email": "sarahwilson@example.com",
+    "password": "xyz789"
+  },
+  {
+    "name": "Robert",
+    "lastName": "Martinez",
+    "email": "robertmartinez@example.com",
+    "password": "hello123"
+  },
+  {
+    "name": "Jennifer",
+    "lastName": "Anderson",
+    "email": "jenniferanderson@example.com",
+    "password": "password789"
+  },
+  {
+    "name": "William",
+    "lastName": "Taylor",
+    "email": "williamtaylor@example.com",
+    "password": "abcxyz"
+  },
+  {
+    "name": "Jessica",
+    "lastName": "Thomas",
+    "email": "jessicathomas@example.com",
+    "password": "pass456"
+  },
+  {
+    "name": "Daniel",
+    "lastName": "Hernandez",
+    "email": "danielhernandez@example.com",
+    "password": "qwerty123"
+  },
+  {
+    "name": "Lauren",
+    "lastName": "Lopez",
+    "email": "laurenlopez@example.com",
+    "password": "password321"
+  },
+  {
+    "name": "Christopher",
+    "lastName": "Garcia",
+    "email": "christophergarcia@example.com",
+    "password": "xyzabc"
+  },
+  {
+    "name": "Megan",
+    "lastName": "Lee",
+    "email": "meganlee@example.com",
+    "password": "hello456"
+  }
+]

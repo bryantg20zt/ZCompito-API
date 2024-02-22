@@ -13,7 +13,7 @@ taskRouting.post('/', (req, res) => {
 })
 
 taskRouting.patch('/', (req,res) => {
-  res.send("Actualizando tarea")
+  res.send("ACTUALIZACION DE TAREA")
 })
 
 taskRouting.delete('/', (req,res) => {

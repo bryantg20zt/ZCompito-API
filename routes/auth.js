@@ -1,17 +1,12 @@
 import { Router } from 'express'
 import { LoginUser } from '../controllers/Auth/auth.js'
+import { registerUser, updateUser } from '../controllers/users.js'
 
 export const authRouting = Router()
 
 authRouting.get('/', LoginUser)
 
 
-authRouting.post('/', (req, res) => {
-  console.log(req.headers.authorization)
-  res.send("REGISTRANDO USUARIO")
-})
+authRouting.post('/register', registerUser)
 
-authRouting.patch('/:userID', (req,res) => {
-  const userID = req.params.userID
-  res.send("ACTUALIZANDO USUARIO")
-})
+authRouting.patch('/:userID', updateUser)

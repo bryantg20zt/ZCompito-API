@@ -16,7 +16,6 @@ export const registerUser = async (req, res) => {
       return res.status(400).json({ error: "El usuario ya existe" });
     }
 
-    // Crear el usuario en la base de datos
     const newUser = await prismaDB.user.create({
       data: {
         email,

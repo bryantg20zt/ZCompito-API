@@ -11,6 +11,7 @@ authRouting.post('/', (req, res) => {
   res.send("REGISTRANDO USUARIO")
 })
 
-authRouting.patch('/', (req,res) => {
+authRouting.patch('/:userID', (req,res) => {
+  const userID = req.params.userID
   res.send("ACTUALIZANDO USUARIO")
 })

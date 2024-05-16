@@ -103,5 +103,19 @@
     "email": "jamesw@example.com",
     "password": "james456",
     "userName": "jwalker"
+  },
+  {
+    "name": "Fernando",
+    "lastName": "Gomez",
+    "email": "fernando.gomez@ztstudios.com",
+    "password": "zt123",
+    "userName": "fergmz"
+  },
+  {
+    "name": "Bryan",
+    "lastName": "Turubiates",
+    "email": "bryan.turrubiates@ztstudios.com",
+    "password": "zt123",
+    "userName": "bryantg"
   }
 ]

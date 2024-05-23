@@ -4,8 +4,7 @@ import { registerUser, updateUser } from '../controllers/users.js'
 
 export const authRouting = Router()
 
-authRouting.get('/', LoginUser)
-
+authRouting.post('/', LoginUser)
 
 authRouting.post('/register', registerUser)
 
